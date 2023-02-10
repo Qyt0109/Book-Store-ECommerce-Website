@@ -1,7 +1,7 @@
 # Book-Store-ECommerce-Website
 <h3>Book Store ECommerce Website using Java Servlet and Hibernate framework</h3>
 <hr>
-<h3>Project Overview</h3>
+<h3>PROJECT OVERVIEW</h3>
 <h4>Technologies:</h4>
 <ul>
 <li>Using Java Servlet, JSP, JSTL and Hibernate framework, HTML, CSS, Javascript and jQuery</li>
@@ -30,8 +30,19 @@
 <li>Statistics (admin dashboard)</li>
 </ul>
 <hr>
-<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image.PNG?raw=true![image](https://user-images.githubusercontent.com/92682344/218059237-4a50943f-dc2e-49d9-9590-20ccabea7bd0.png)
-">
+<h3>SOME SCREENSHOT ABOUT THE PROJECT</h3>
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image.PNG?raw=true">
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image1.PNG?raw=true">
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image2.PNG?raw=true">
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image3.PNG?raw=true">
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image4.PNG?raw=true">
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image5.PNG?raw=true">
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image6.PNG?raw=true">
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image7.PNG?raw=true">
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image8.PNG?raw=true">
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image9.PNG?raw=true">
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image10.PNG?raw=true">
 <hr>
 <h3>HOW TO USE</h3>
 <h4>Installation instructions are attached inside the project folder!</h4>
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/persistence.PNG?raw=true">
