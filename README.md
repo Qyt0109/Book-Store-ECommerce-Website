@@ -46,3 +46,4 @@
 <h3>HOW TO USE</h3>
 <h4>Installation instructions are attached inside the project folder!</h4>
 <img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/persistence.PNG?raw=true">
+<h3>Reference from <a href="https://github.com/triquang15/AmazonBookStore">triquang15</a>'s project</h3>
