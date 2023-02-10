@@ -30,5 +30,8 @@
 <li>Statistics (admin dashboard)</li>
 </ul>
 <hr>
+<img src="https://github.com/Qyt0109/Book-Store-ECommerce-Website/blob/main/Images%20Page/image.PNG?raw=true![image](https://user-images.githubusercontent.com/92682344/218059237-4a50943f-dc2e-49d9-9590-20ccabea7bd0.png)
+">
+<hr>
 <h3>HOW TO USE</h3>
 <h4>Installation instructions are attached inside the project folder!</h4>
