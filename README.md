@@ -28,3 +28,6 @@
 <li>Order management</li>
 <li>Statistics (admin dashboard)</li>
 </ul>
+<hr>
+<h3>HOW TO USE</h3>
+<h4>Installation instructions are attached inside the project folder!</h4>
