@@ -1,7 +1,8 @@
 # Book-Store-ECommerce-Website
 <h3>Book Store ECommerce Website using Java Servlet and Hibernate framework</h3>
-
-<h4>Technologies :</h4>
+<hr>
+<h3>Project Overview</h3>
+<h4>Technologies:</h4>
 <ul>
 <li>Using Java Servlet, JSP, JSTL and Hibernate framework, HTML, CSS, Javascript and jQuery</li>
 <li>Design and manage Database with MySQL</li>
